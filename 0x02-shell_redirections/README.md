@@ -1,2 +1,2 @@
-#0x02-shell_redirections
+# 0x02-shell_redirections
 All about shell redirections in bash
